@@ -3,3 +3,6 @@
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Adding config.py file.
+config.py
