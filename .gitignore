@@ -6,3 +6,6 @@
 
 # Adding config.py file.
 config.py
+
+# __pycache__ directory
+__pycache__
