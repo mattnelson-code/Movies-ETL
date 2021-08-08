@@ -31,3 +31,11 @@
 
 * View this process in ETL_create_database.ipynb.
 * The transformed data is loaded to a SQL database.
+
+#### Two Tables: Movies and Ratings
+
+* Two tables: movies and ratings
+* Verify correct number of rows for movies (6052) and ratings (26,024,289)
+
+- Movies table: [movies_query]('Resources/movies_query.png')
+- Ratings table: [ratings_query]('Resources/ratings_query.png)
